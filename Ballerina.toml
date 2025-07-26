@@ -1,0 +1,8 @@
+[package]
+org = "220034311"
+name = "dsa612s_ch1"
+version = "0.1.0"
+distribution = "2201.12.7"
+
+[build-options]
+observabilityIncluded = true
